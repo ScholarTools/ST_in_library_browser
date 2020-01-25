@@ -11,6 +11,8 @@ b = browser.PubmedBrowser()
 b.paint()
 ```
 
+<table><tr><td>
 <img src="docs/example_pubmed.png" height="492">
+</td></tr></table>
 
-
+The image above is a screenshot of a search I performed. Two of the articles are in my library (green) and two are not (red).
